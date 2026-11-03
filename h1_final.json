@@ -1,0 +1,34 @@
+{
+ "RF": {
+  "WAPE": 0.6393,
+  "RMSE": 397.5148,
+  "MASE": 0.8267,
+  "MAPE": 1.7735,
+  "size_MB": 40.26,
+  "train_s_7fits": 24.9
+ },
+ "XGB": {
+  "WAPE": 0.6988,
+  "RMSE": 421.444,
+  "MASE": 0.9084,
+  "MAPE": 1.935,
+  "size_MB": 0.81,
+  "train_s_7fits": 3.0
+ },
+ "RF_tuned": {
+  "WAPE": 0.572,
+  "RMSE": 360.5305,
+  "MASE": 0.7491,
+  "MAPE": 1.5291,
+  "size_MB": 4.85,
+  "train_s_7fits": 14.1
+ },
+ "XGB_tuned": {
+  "WAPE": 0.5965,
+  "RMSE": 385.3989,
+  "MASE": 0.7617,
+  "MAPE": 1.616,
+  "size_MB": 0.45,
+  "train_s_7fits": 1.6
+ }
+}
